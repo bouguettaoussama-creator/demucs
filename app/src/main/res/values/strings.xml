@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demucs Audio</string>
+    <string name="app_subtitle">فصل الصوت والكلام عن الموسيقى محلياً</string>
+    <string name="tab_separate">فصل المسارات</string>
+    <string name="tab_live">المعالجة المباشرة</string>
+    <string name="tab_settings">إعدادات Demucs</string>
+    <string name="tab_library">المكتبة والتصدير</string>
+</resources>

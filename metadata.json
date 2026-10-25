@@ -1,0 +1,6 @@
+{
+  "name": "Demucs Vocal Remover",
+  "description": "تطبيق احترافي لفصل الصوت والكلام عن الموسيقى محلياً بنموذج Demucs مع دعم MP3 و WAV و FLAC ومعالجة مباشرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
